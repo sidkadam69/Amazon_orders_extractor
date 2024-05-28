@@ -28,11 +28,10 @@ This project uses Selenium to log in to your Amazon account, navigate to the ord
     <li>Add your Amazon username and password to the credentials.json file with the following structure:</li>
     </ul>
     ```json
-
-{
+    {
     "username": "your_amazon_username",
     "password": "your_amazon_password"
-}
+    }
     ```
 ## Explaination
 
