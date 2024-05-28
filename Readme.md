@@ -26,8 +26,7 @@ This project uses Selenium to log in to your Amazon account, navigate to the ord
     <li>Create a folder named config in the same directory as your script.</li>
     <li>Inside the config folder, create a file named credentials.json.</li>
     <li>Add your Amazon username and password to the credentials.json file with the following structure:</li>
-    ```
-    {    
+    ```{    
     "username": "your_amazon_username",
     "password": "your_amazon_password"
     }
